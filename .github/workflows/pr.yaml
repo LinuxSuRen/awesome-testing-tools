@@ -1,0 +1,22 @@
+name: Pull Request Build
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3.0.0
+      - name: Validate readme
+        uses: linuxsuren/yaml-readme@v0.0.16
+        with:
+          pattern: 'data/*.yaml'
+          username: linuxsuren
+          org: linuxsuren
+          repo: test-tools-from-china
+          push: false
