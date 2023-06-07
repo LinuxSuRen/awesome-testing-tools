@@ -3,5 +3,5 @@
 | 名称 | 最新版本 | 下载量 |
 |---|---|---|
 {{- range $val := .}}
-| {{$val.name}} | {{$val.latest}} | {{$val.download}} |
+| {{$val.name}} | [![GitHub release](https://img.shields.io/github/release/{{$val.repo}}.svg?label=release)](https://github.com/{{$val.repo}}/releases/latest) | ![GitHub All Releases](https://img.shields.io/github/downloads/{{$val.repo}}/total) |
 {{- end}}
