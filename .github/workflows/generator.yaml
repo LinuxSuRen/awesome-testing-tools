@@ -18,7 +18,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
-          pattern: 'data/*.yml'
+          pattern: 'data/*.yaml'
           username: linuxsuren
           org: linuxsuren
           repo: test-tools-from-china
