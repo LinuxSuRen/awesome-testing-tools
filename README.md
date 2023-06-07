@@ -2,8 +2,8 @@
 
 由中国人（团队）发起的开源测试工具: 4
 
-| 名称 | 最新版本 | 下载量 | 维护状态 ｜
-|---|---|---|---｜
+| 名称 | 最新版本 | 下载量 | 维护状态 |
+|---|---|---|---|
 | atest | [![GitHub release](https://img.shields.io/github/release/linuxsuren/api-testing.svg?label=release)](https://github.com/linuxsuren/api-testing/releases/latest) | ![GitHub All Releases](https://img.shields.io/github/downloads/linuxsuren/api-testing/total) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/linuxsuren/api-testing) |
 | deeptest | [![GitHub release](https://img.shields.io/github/release/deeptest-com/deeptest.svg?label=release)](https://github.com/deeptest-com/deeptest/releases/latest) | ![GitHub All Releases](https://img.shields.io/github/downloads/deeptest-com/deeptest/total) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/deeptest-com/deeptest) |
 | httprunner | [![GitHub release](https://img.shields.io/github/release/httprunner/httprunner.svg?label=release)](https://github.com/httprunner/httprunner/releases/latest) | ![GitHub All Releases](https://img.shields.io/github/downloads/httprunner/httprunner/total) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/httprunner/httprunner) |
