@@ -1,3 +1,5 @@
+[![LinuxSuRen/open-source-best-practice](https://img.shields.io/static/v1?label=OSBP&message=%E5%BC%80%E6%BA%90%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5&color=blue)](https://github.com/LinuxSuRen/open-source-best-practice)
+
 由中国人（团队）发起的开源测试工具: {{len .}}
 
 | 名称 | 最新版本 | 下载量 | 维护状态 | 开源协议 |
